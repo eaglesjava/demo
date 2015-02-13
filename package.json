@@ -1,0 +1,17 @@
+{
+  "name": "FrozenUI",
+  "css": "1.2.1",
+  "js": "1.0.1",
+  "title": "FrozenUI Demo",
+  "homepage": "https://github.com/frozenui/demo",
+  "author": "fayching",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frozenui/demo.git"
+  },
+  "licenses": "MIT",
+  "description": "为移动端web而生",
+  "bugs": {
+    "url": "https://github.com/frozenui/demo/issues"
+  }
+}
