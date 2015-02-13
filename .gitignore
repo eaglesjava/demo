@@ -19,6 +19,8 @@ Thumbs.db
 build
 .cache
 .sass-cache
+_site/
+_site
 *.build
 *.grunt
 .ftppass
