@@ -1,5 +1,5 @@
 exports.source = "docs"
-exports.output = "_site"
+exports.output = "frozenui"
 exports.permalink = "{{filename}}.html"
 
 // 你可以使用 nodejs 的库哦
